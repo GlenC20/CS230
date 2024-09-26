@@ -1,0 +1,52 @@
+[
+  {
+    "_id": "66302cd66a9e06754609c2ad",
+    "id": 1,
+    "className": "Advanced Yoga",
+    "classDay": "Wednesday",
+    "sessionLength": 2,
+    "price": 20,
+    "currentMembers": 8,
+    "__v": 0
+  },
+  {
+    "_id": "66302d1b6a9e06754609c2b0",
+    "id": 2,
+    "className": " Yoga",
+    "classDay": "tuesday",
+    "sessionLength": 4,
+    "price": 20,
+    "currentMembers": 8,
+    "__v": 0
+  },
+  {
+    "_id": "66302d296a9e06754609c2b2",
+    "id": 3,
+    "className": " bally",
+    "classDay": "friday",
+    "sessionLength": 4,
+    "price": 20,
+    "currentMembers": 8,
+    "__v": 0
+  },
+  {
+    "_id": "66302d2d6a9e06754609c2b4",
+    "id": 4,
+    "className": " bally",
+    "classDay": "friday",
+    "sessionLength": 4,
+    "price": 20,
+    "currentMembers": 8,
+    "__v": 0
+  },
+  {
+    "_id": "66302d346a9e06754609c2b6",
+    "id": 5,
+    "className": "battin",
+    "classDay": "friday",
+    "sessionLength": 4,
+    "price": 20,
+    "currentMembers": 8,
+    "__v": 0
+  }
+]
